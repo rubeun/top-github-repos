@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Top Github Repos
+By Rubeun Tan
+
+Simple app that fetches the top starred JavaScript repositories from GitHub and displays the returned repositories in a timeline visualisation ordered by their created dates.
+
+Timeline Component used: [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
